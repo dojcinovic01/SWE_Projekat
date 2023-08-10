@@ -1,2 +1,2 @@
 # SWE_Projekat
-Credit to this guy https://www.youtube.com/@EdRohDev
+Check this guy. His free youtube projects really helped me a lot. https://www.youtube.com/@EdRohDev
